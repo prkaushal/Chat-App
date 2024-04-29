@@ -1,0 +1,35 @@
+.joinPage{
+    background-color: rgb(31, 29, 29);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinContainer{
+   
+   border: 2px solid white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+}
+
+.heading{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#joinInput{
+    padding : 10px 5px
+}
+
+.joinbtn{
+    padding: 5px;
+    font: bold;
+    cursor: pointer;
+    
+}
